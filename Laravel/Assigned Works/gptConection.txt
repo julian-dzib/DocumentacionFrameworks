@@ -1,0 +1,5 @@
+Generar un servicio para comunicarse con openAI, siguiente la estructura de los prompt y
+pasando como parámetro: rol, contexto
+
+Devolver la respuesta de la AI tanto en la generación de texto como en el reconocimiento de imágen
+
