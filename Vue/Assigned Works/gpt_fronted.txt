@@ -1,0 +1,1 @@
+Consumir el servicio rest para generar plantillas de consultas
